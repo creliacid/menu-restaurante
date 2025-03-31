@@ -1,0 +1,110 @@
+=================================================================================
+University.: Universidad Técnica Nacional
+Campus.....: Pacífico (JRMP)
+Career.....: Ingeniería en Tecnologías de Información
+Period.....: 1C-2025
+Course.....: ITI-721 - Desarrollo de Aplicaciones para Dispositivos Móviles II
+Document...: Conceptos básicos de Flutter.txt
+Goals......: Trabajo de investigación en clase
+Professor..: Jorge Ruiz (york)
+Student....:
+=================================================================================
+
+Trabajo en Clases:
+Investigación de los siguientes elementos
+
+1. Layouts o distribución espacial de contenido en la ventana:
+
+	- Column
+	- Row
+	- Stack
+	- Container
+	- Expanded
+	- Flexible
+	- Padding
+	- Align
+	
+	¿El uso y configuración de estos, permite un desarrollo responsivo a las dimenciones
+	 y disposición vertical/horizontal del dispositivo?
+	 
+	Referencias: 
+		Flutter Documentation: https://flutter.dev/docs
+		Flutter Widget Catalog: https://flutter.dev/docs/reference/widgets
+
+
+2. Desarrolle una ventana en Flutter que permita desarrollar una captura y o procesamiento 
+   de datos:
+   
+	- Text & Typography:
+		- Text
+		- TextEditing
+		- RichText
+		
+	- Buttons & Controls:
+		- ElevatedButton
+		- TextButton
+		- OutlinedButton
+		- IconButton
+		- Radio
+		- Checklist
+		- Switch
+		- Slider
+
+	- Images & Media:
+		- Image
+		- CachedNetworkImage
+	
+	- Lists & Data Display:
+		- ListView
+		- GridView
+		- ListTile
+		
+	Referencias: 
+		Flutter Documentation: https://flutter.dev/docs
+		Flutter Widget Catalog: https://flutter.dev/docs/reference/widgets
+	
+	
+3. Uso de diferentes tipos de menus:
+
+	- Simple Bottom Sheet Menus
+	- Dropdown Menus (Dropdown Buttons)
+	- Drawer Menus (Navigation Drawers)
+	- Bottom Navigation Bars 
+	- Custom Menus
+	- Modal Bottom Sheets with Complex Content
+	
+	Referencias: 	
+		Flutter Documentation - Bottom Sheet: https://flutter.dev/docs/ui/navigation/bottom-sheet
+		Flutter Documentation - Drawer: https://flutter.dev/docs/ui/navigation/drawer
+		Flutter Documentation - Scaffold: https://flutter.dev/docs/ui/scaffold
+		
+		
+4. Crear una interface multilenguaje o internacionalizada de forma que pueda reconocer el lenguanje
+   del dispositvo en el que correra la aplicación.		
+   
+	- Leveraging Flutter’s Localization Support
+		- flutter_localizations
+		- StringCatalogue
+		- AppLocalizations
+		
+	Utilice archivos ARB: Application Resource Bundle para crear en forma separada el diccionario
+	para cada lenguaje en mente a utilizar (app_en.arb, app_es.arb, app_fr.arb).
+	
+	
+	Referencias:
+	
+		Flutter Localization Documentation: https://flutter.dev/docs/ui/internationalization/localization
+		flutter_localizations Package: https://pub.dev/packages/flutter_localizations
+		
+		
+Distribución de Grupos 	
+
+	Grupo                       | Tema
+	----------------------------+---------------
+	Los Pinguinos 7.0 y Keylor  | Problema 1
+	----------------------------+---------------
+	Here we go again y Potaxies | Problema 2
+	----------------------------+---------------
+	The Swifties y G-force      | Problema 3
+	----------------------------+---------------
+	The TechnoTubies            | Problemas 4
